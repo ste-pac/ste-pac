@@ -1,6 +1,6 @@
 <h1 align='center'><b>👋 Hey there! I'm Stefano 👋</b></h1>
 
-I'm a European master degree student of *Artificial Intelligence* at the [University of Pisa], where I previously graduated in *Computer Science* with magna cum laude. I'm also an environmentalist, a blood donor and an open-source supporter. I love to design and build complex systems from scratch using "low level" programming languages, in order to achieve the best possible performance. 
+I'm a European master degree student of *Artificial Intelligence* at the [University of Pisa], where I previously graduated in *Computer Science* magna cum laude. I'm also an environmentalist, a blood donor and an open-source supporter. I love to design and build complex systems from scratch using "low level" programming languages, in order to achieve the best possible performance. 
 
 <h2 align='center'><b>About Me</b></h2>
 
